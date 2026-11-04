@@ -1,0 +1,16 @@
+# Compiled programs and compiler/linker output
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.idb
+*.pch
+build/
+Debug/
+Release/
+x64/
+.vs/
